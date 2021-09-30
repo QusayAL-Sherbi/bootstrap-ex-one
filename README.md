@@ -1,6 +1,5 @@
-# Bootstrap-Exercise-one
-
-## Team
-### Hasan Aqilan
-### Mohamed Alissa
+# Bootstrap Exercise One
+## Great Team
+### Hassan Aqilan
+### Mohammed Alissa
 ### Qusay AL-Sherbi
